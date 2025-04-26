@@ -52,6 +52,3 @@ This template provides a basic foundation.  Adapt it to your specific needs by:
 
 Contributions are welcome!  Please submit a pull request with your changes.
 
-## License
-
-[Specify your project's license here, e.g., MIT License]
